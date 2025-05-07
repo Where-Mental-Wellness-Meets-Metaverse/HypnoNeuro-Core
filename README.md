@@ -54,7 +54,8 @@ Development was supported under contract as part of the platform’s private R&D
 
 ## 🔗 Related Repositories
 
-- [HypnoNeuro Mind Loop](https://github.com/Where-Mental-Wellness-Meets-Metaverse/HypnoNeuro) – Behavioral scripts, charts, and therapeutic program structure
+- [HypnoNeuro Mind Loop](https://github.com/Where-Mental-Wellness-Meets-Metaverse/hypnoneuro-mind-loop) – Behavioral scripts, charts, and therapeutic program structure
+
 
 ---
 
