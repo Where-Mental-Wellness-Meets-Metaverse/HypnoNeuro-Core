@@ -43,8 +43,12 @@ This repo includes foundational code and logic for:
 
 ## 🤝 Acknowledgements
 
-This codebase was built by a contracted developer based on original system design, healing logic, and reward structures created by Dr. Meg Montañez Davenport.  
-All rights reserved under HypnoNeuro IP.
+This codebase was built in collaboration with developer **Nadeem Shahzad**, based on the original system architecture, healing logic, and token/NFT reward structures created by **Dr Meg Montañez Davenport**.
+
+All intellectual property and strategic design belong to the **HypnoNeuro platform**.  
+Development was supported under contract as part of the platform’s private R&D build.
+
+
 
 ---
 
