@@ -1,0 +1,21 @@
+# ninja log v5
+45	236	7622078878460355	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	686b8b0ad2477d77
+1	1620	7622078892238298	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	8fdd33950316cc6f
+6	1326	7622078889280413	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	5b3cc2600f6a8908
+31	1197	7622078888054563	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	7197904a75714b36
+238	512	7622078880571803	C:/Users/Coeus/OneDrive/Documents/NeuroQuest/NeuroQuest/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/3b5h703q/obj/armeabi-v7a/libswappywrapper.so	a516e5e3f55d56d7
+12	1100	7622078887066870	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	bbad5f8903d0794f
+18	1123	7622078887306004	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	5a0ab0ba42d36a0f
+38	1247	7622078888564253	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	64c8069b2994d802
+25	1518	7622078891260373	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	8cb39d56b7f6f33b
+1621	1788	7622078893395275	C:/Users/Coeus/OneDrive/Documents/NeuroQuest/NeuroQuest/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/3b5h703q/obj/armeabi-v7a/libgame.so	548269a5acb4fe84
+59	420	7622080447916648	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	686b8b0ad2477d77
+421	1524	7622080453092603	C:/Users/Coeus/OneDrive/Documents/NeuroQuest/NeuroQuest/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/3b5h703q/obj/armeabi-v7a/libswappywrapper.so	a516e5e3f55d56d7
+11	1581	7622080459617808	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	bbad5f8903d0794f
+34	1724	7622080461237535	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	5a0ab0ba42d36a0f
+50	1953	7622080463486490	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	7197904a75714b36
+42	2166	7622080464912180	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	64c8069b2994d802
+4	2353	7622080467222750	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	5b3cc2600f6a8908
+19	2584	7622080469422567	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	8cb39d56b7f6f33b
+26	3014	7622080473992455	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	8fdd33950316cc6f
+3014	3617	7622080476990151	C:/Users/Coeus/OneDrive/Documents/NeuroQuest/NeuroQuest/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/3b5h703q/obj/armeabi-v7a/libgame.so	548269a5acb4fe84
